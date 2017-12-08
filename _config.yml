@@ -1,13 +1,13 @@
 # Site settings
-title: BY Blog
+title: 它不懂
 SEOTitle: 紫忆的博客 | BY ZiYi
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: 6315516607@qq.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY ZiYi, 紫忆的博客, qiubaiying, 紫忆, iOS, Apple, iPhone"
+keyword: "BY, BY ZiYi, 紫忆的博客, 紫忆,"
 url: "http://ziyi2335.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/ziyi2335/ziyi2335.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -18,12 +18,12 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+# weibo_username:     淡淡的紫忆
+zhihu_username:     紫忆
+github_username:    ziyi2335
+facebook_username:  ziyi
+jianshu_username:   ziyi
+#twitter_username:   ziyi
 
 
 
@@ -56,7 +56,7 @@ kramdown:
 
 # 评论系统
 # Disqus settings（https://disqus.com/）
-disqus_username: qiubaiying
+disqus_username: ziyi
 
 # 多说 将于2017年6月1日正式关停服务，建议使用 Disqus（http://dev.duoshuo.com/threads/58d1169ae293b89a20c57241）
 # Duoshuo settings
@@ -97,8 +97,8 @@ friends: [
         title: "WY",
         href: "http://zhengwuyang.com"
     },{
-        title: "微博·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "Microblog·BY",
+        href: "https://weibo.com/3263452662/profile?rightmod=1&wvr=6&mod=personinfo"
     },{
         title: "Apple",
         href: "https://apple.com"
